@@ -1,6 +1,6 @@
 #  About Me
 
-Fourth-year student at **ITIS Benedetto Castelli** in Brescia, with a strong focus on the continuous development and consolidation of technical competencies.
+Fifth-year student at **ITIS Benedetto Castelli** in Brescia, with a strong focus on the continuous development and consolidation of technical competencies.
 
 My core areas of expertise encompass systems programming in **C++**, **Java**, and **Python**, alongside front-end web development leveraging **HTML**, **CSS**, and **JavaScript** to build structured and functional interfaces.
 
